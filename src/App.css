@@ -64,3 +64,12 @@ h1, h2, h3, h4, h5 {
   letter-spacing: 2px;
   border: none;
 }
+
+footer{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: var(--lightred);
+  color: #fff;
+  width: 100vw;
+}

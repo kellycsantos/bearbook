@@ -15,7 +15,7 @@ function App() {
           <Input tipo="password" placeholder="******" />
           <Input tipo="button" placeholder="******" dado="Login" />
           <footer>
-            <small>  © kellycdev</small>
+            <small>  © Kelly Santos.</small>
           </footer>
         </div>
       </div>
